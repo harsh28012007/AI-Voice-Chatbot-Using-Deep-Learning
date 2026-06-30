@@ -160,7 +160,6 @@ AI-Voice-Chatbot-Using-Deep-Learning/
 │
 
 ├── app.py
-├── requirements.txt
 ├── README.md
 ├── LICENSE
 ├── .gitignore
@@ -172,8 +171,8 @@ AI-Voice-Chatbot-Using-Deep-Learning/
 ├── screenshots/
 │      ├── Home.png
 │      ├── Chat.png
-│      ├── Voice.png
-│      ├── History.png
+│      
+│   
 │
 └── models/
 ```
