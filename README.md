@@ -215,23 +215,23 @@ This project was thoroughly tested to ensure reliability and performance.
 
 ### Testing Performed
 
-✔ Functional Testing
+1. Functional Testing
 
-✔ User Interface Testing
+2. User Interface Testing
 
-✔ Input Validation Testing
+3. Input Validation Testing
 
-✔ Voice Recognition Testing
+4. Voice Recognition Testing
 
-✔ Chat History Testing
+5. Chat History Testing
 
-✔ Download Functionality Testing
+6. Download Functionality Testing
 
-✔ Performance Testing
+7. Performance Testing
 
-✔ Usability Testing
+8. Usability Testing
 
-✔ End-to-End Testing
+9. End-to-End Testing
 
 
 
